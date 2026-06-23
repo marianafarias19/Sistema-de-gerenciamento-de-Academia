@@ -48,5 +48,35 @@ Pratiquei bastante o uso de:
 if
 elif
 else
-
 para validar opções do menu e a escolha dos planos.
+
+---
+
+
+# O que Aprendi
+
+Ao concluir esta etapa do projeto, consegui desenvolver habilidades importantes como:
+
+- Organização de dados em Python
+- Criação de menus interativos
+- Manipulação de listas e dicionários
+- Estruturas de decisão
+- Estruturas de repetição
+- Resolução de problemas
+- Leitura e correção de erros
+
+---
+
+# Melhorias Futuras
+
+Pretendo continuar evoluindo este projeto adicionando funcionalidades como:
+
+- Buscar aluno por nome
+- Editar dados de alunos
+- Excluir alunos cadastrados
+- Salvar informações em arquivo `.txt`
+- Salvar dados em JSON
+- Utilizar banco de dados SQLite
+- Criar uma interface gráfica
+
+---
